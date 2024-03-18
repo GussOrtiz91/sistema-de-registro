@@ -6,3 +6,4 @@ Para ejecutar el sistema, debes poner:
 
 ```npa isntallreact```
 
+Sistema de Registro 2
